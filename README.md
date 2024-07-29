@@ -1,23 +1,21 @@
-# Next Up - Movie Recommendation System
+# Movify - Movie Recommendation System
 <!-- ## Submission for Microsoft Intern Engage 2022 -->
-## Submission for Microsoft Intern Engage '22
+## Submission for Finals Project '24
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55057608/170705077-90f2292f-8d71-46de-82f6-75a68a88a2c5.png" alt="Next up image" width="50%" />
+  <img src="https://github.com/user-attachments/assets/ada6c7dc-29ad-4ffa-94cd-9b786c8c462a" alt="Movify image" width="50%" />
 </p>
 
 
 ## Overview
-Next up is a movie recommendation system that offers generalized recommendations to every user based on movie popularity, genre, and year. 
+Movify is a movie recommendation system that offers generalized recommendations to every user based on movie popularity, genre, and year. 
 The model also gives personalized recommendations based on the user's choice of genre and cast.
 Finally, the system suggests similar movies have a higher probability of being liked based on the movie selected by the user. 
 
 
 ## Demo Video
-The demo video for the app can be checked here: [Next Up | Video](https://youtu.be/2bBJNJMQEnY)
-
-https://github.com/kashishahuja2002/Next-Up-Microsoft-Intern-Engage/assets/55057608/a1350c89-900a-41ac-8cb2-3777957d112c
+The demo video for the app can be checked here: [Movify | Video]()
 
 
 ## Features
@@ -57,23 +55,23 @@ https://github.com/kashishahuja2002/Next-Up-Microsoft-Intern-Engage/assets/55057
 ### Landing Page
 * Seamless landing page with `Sign-in` and `Sign-up` (Get Started) button.
 
-![home page](https://user-images.githubusercontent.com/55057608/170728394-90bf8b2a-e336-4669-986d-c95426f2ec4f.png)
+![home page](https://github.com/user-attachments/assets/092ecc54-f128-4c0e-8eaf-e99aaaa0a763)
 
 ### Sign-up Page
 
-![sign-up page](https://user-images.githubusercontent.com/55057608/170728671-71d36f55-c1e4-4994-8b28-1f60fea80e5a.png)
+![sign-up page](https://github.com/user-attachments/assets/edc77e99-9ad0-4b07-9b33-340eb50187d6)
 
 ### Sign-in Page
 
-![5 - sign-in](https://user-images.githubusercontent.com/55057608/170729606-be135836-b021-45d2-aa37-04051e0acb2f.png)
+![5 - sign-in](https://github.com/user-attachments/assets/e9b1a475-3cb4-4fb9-aa69-09f48da8785e)
 
 ### OTP Validation Page
 
-![11 - otp validation](https://user-images.githubusercontent.com/55057608/170730305-cbccfd03-cf80-45aa-b893-734503d01a30.png)
+![11 - otp validation](https://github.com/user-attachments/assets/4c737298-0c95-4e3c-bea4-428bd801075c)
 
 ### Reset password Page
 
-![14 - reset](https://user-images.githubusercontent.com/55057608/170730899-809feb1c-eb6a-4a06-b6e8-c4ba3ea1085d.png)
+![14 - reset](https://github.com/user-attachments/assets/e9b1a475-3cb4-4fb9-aa69-09f48da8785e)
 
 ### Restrictions and validations on the sign-up page, sign-in page, forgot password functionality, OTP validation page, and reset password page
 * All fields not filled
@@ -81,29 +79,29 @@ https://github.com/kashishahuja2002/Next-Up-Microsoft-Intern-Engage/assets/55057
 * Incorrect password, OTP incorrect
 * Email address not entered, OTP not entered, new password not entered
 
-![6 - validations](https://user-images.githubusercontent.com/55057608/170794709-7b6623b8-6fe8-4248-ae0e-c02f49a42034.PNG)
+![6 - validations](https://github.com/user-attachments/assets/cae4b0dc-3f75-4d8f-8cda-b3db2b133664)
 
 ### Choices Page
 * Page for choosing preferred genres and casts used for recommending movies
 
-![choices](https://user-images.githubusercontent.com/55057608/170731172-7ac6e050-93ab-433f-9d38-2466972cc5d6.png)
+![choices](https://github.com/user-attachments/assets/0b8bf436-d712-407c-b3cf-8a007e4a8b29)
 
 ### Recommendations page
 * This page shows recommended movies based on genres and casts chosen by the user.
 * It also displays the most popular movies based on different genres and years.
 
-![16 - recommendations](https://user-images.githubusercontent.com/55057608/170731099-138356e1-2113-4ae1-bebb-6740431432b1.png)
+![16 - recommendations](https://github.com/user-attachments/assets/c1e4006f-2256-4685-969c-993ed0579c00)
 
 ### Movie Page
 * This page shows details and a trailer of the movie selected by the user.
 * It also recommends similar movies to the user based on the selected movie.
 
-![18 - movie](https://user-images.githubusercontent.com/55057608/170731745-71dcabad-78ca-489e-92cd-402900a14845.png)
+![18 - movie](https://github.com/user-attachments/assets/6bc34d43-a3e1-4232-a902-187b49148737)
 
 ### Watch Movie Page
 * This page is to watch the movie selected.
 
-![19 - watch](https://user-images.githubusercontent.com/55057608/170731856-2595f39a-4ea1-41e3-9160-d699d82bf578.png)
+![19 - watch](https://github.com/user-attachments/assets/4d5cfd32-2345-48c6-b8be-f8cc500fb9cd)
 
 
 ## Tech Stack and Software used
@@ -133,17 +131,17 @@ It is achieved by using the Annoy (Approximate Nearest Neighbors) mechanism. Res
 
 ## Deployment
 For Deployment, I have used `Heroku` as a platform.
-A deployed version can be checked here: [Next Up](https://next-up-movies.herokuapp.com/)
+A deployed version can be checked here: [Movify]()
 
 
 ## Installation/Environment Setup
 1. Clone this repository in your local system.
 * Open the terminal in a new folder and enter the command given below.
    <!-- ```
-   git clone https://github.com/kashishahuja2002/Microsoft-Intern-Engage.git
+   git clone https://github.com/DEV7879/Movify.git
    ``` -->
    ```
-   git clone https://github.com/kashishahuja2002/Minor-Project-Next-Up.git
+   git clone https://github.com/DEV7879/Movify.git
    ```
 
 2. Make sure that Python is installed and updated in your machine.
@@ -176,12 +174,12 @@ For continuous deployment, Heroku is used. Any changes pushed to the main branch
 
 
 ## Documentation
-A complete project report for the system with a use case diagram, web flow, ER diagram, wireframes, etc can be found here: [Next Up | Project Report](/documents/ProjectReport.docx.pdf).
+A complete project report for the system with a use case diagram, web flow, ER diagram, wireframes, etc can be found here: [Movify | Project Report](/documents/ProjectReport.docx.pdf).
 
-A short and crisp version of the documentation can be found here: [Next Up | Documentation](/documents/Documentation.pdf).
+A short and crisp version of the documentation can be found here: [Movify | Documentation](/documents/Documentation.pdf).
 
-A presentation for the project can be found here: [Next Up | Presentation](/documents/Presentation.pdf).
+A presentation for the project can be found here: [Movify | Presentation](/documents/Presentation.pdf).
 
 
 <br><hr>
-Thank you, Microsoft Team for such a wonderful mentorship program ❤️
+Thank you ❤️
