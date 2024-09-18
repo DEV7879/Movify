@@ -1,5 +1,4 @@
 # Movify - Movie Recommendation System
-<!-- ## Submission for Microsoft Intern Engage 2022 -->
 ## Submission for Finals Project '24
 
 
