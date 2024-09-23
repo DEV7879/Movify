@@ -6,16 +6,10 @@
   <img src="https://github.com/user-attachments/assets/ada6c7dc-29ad-4ffa-94cd-9b786c8c462a" alt="Movify image" width="50%" />
 </p>
 
-
 ## Overview
 Movify is a movie recommendation system that offers generalized recommendations to every user based on movie popularity, genre, and year. 
 The model also gives personalized recommendations based on the user's choice of genre and cast.
 Finally, the system suggests similar movies have a higher probability of being liked based on the movie selected by the user. 
-
-
-## Demo Video
-The demo video for the app can be checked here: [Movify | Video]()
-
 
 ## Features
 1. Sign-up and Sign-in functionality. ✔️
@@ -110,7 +104,7 @@ The demo video for the app can be checked here: [Movify | Video]()
 4. `ML model`: Jupyter Notebook
 5. `IDE`: PyCharm
 6. `Version Control`: Git
-7. `Deployment`: Heroku
+7. `Deployment`: Render
 
 You can also see the list of dependencies in the [requirements.txt](/requirements.txt) file.
 
@@ -129,8 +123,8 @@ It is achieved by using the Annoy (Approximate Nearest Neighbors) mechanism. Res
 
 
 ## Deployment
-For Deployment, I have used `Heroku` as a platform.
-A deployed version can be checked here: [Movify]()
+For Deployment, I have used `Render` as a platform.
+A deployed version can be checked here: [Movify](https://movify-ufed.onrender.com)
 
 
 ## Installation/Environment Setup
@@ -161,7 +155,7 @@ A deployed version can be checked here: [Movify]()
 
 
 ## CD Setup
-For continuous deployment, Heroku is used. Any changes pushed to the main branch will be automatically deployed. 
+For continuous deployment, Render is used. Any changes pushed to the main branch will be automatically deployed. 
 
 
 ## Future Scope
@@ -171,14 +165,5 @@ For continuous deployment, Heroku is used. Any changes pushed to the main branch
 
 * `Collaborative Filtering`: The model currently uses a content-based recommendation system. It can be converted into a hybrid system by adding a collaborative filtering mechanism.
 
-
-## Documentation
-A complete project report for the system with a use case diagram, web flow, ER diagram, wireframes, etc can be found here: [Movify | Project Report](/documents/ProjectReport.docx.pdf).
-
-A short and crisp version of the documentation can be found here: [Movify | Documentation](/documents/Documentation.pdf).
-
-A presentation for the project can be found here: [Movify | Presentation](/documents/Presentation.pdf).
-
-
-<br><hr>
+<hr>
 Thank you ❤️
