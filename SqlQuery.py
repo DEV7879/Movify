@@ -1,5 +1,5 @@
 FETCH_ALL_MOVIES = "Select * from movies"
-# Deployed (Heroku postgres)
+# Deployed (Render postgres)
 # INSERT_USER = "Insert into users(email, password, mobile, selected_genres, selected_cast) values(%s,%s,%s,%s,%s)"
 INSERT_USER = "Insert into users(email, password, mobile, selected_genres, selected_cast) values(?,?,?,?,?)"
 FETCH_ALL_CHOICE = "Select * from choice"
