@@ -5,7 +5,6 @@ __pycache__
 .idea
 .ipynb_checkpoints
 .csv
-*.sqlite
 .vercel
 .vscode
 .vercelignore
