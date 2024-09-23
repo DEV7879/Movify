@@ -8,7 +8,7 @@ import psycopg2
 def db_connection(db_name):
     conn = None
     try:
-        # Deployed (Heroku postgres)
+        # Deployed (Render postgres)
         # if db_name == "users":
         #     conn = psycopg2.connect("postgres://mhldgvpkokhorj:84b82ac4b9d5b6834e371a2031d243a0c8eb52d779c85bc140ca1ddbcefa5415@ec2-3-211-221-185.compute-1.amazonaws.com:5432/dak9afk7el8um7")
         # else:
