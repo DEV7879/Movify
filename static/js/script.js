@@ -1,4 +1,4 @@
-// Deployed (Heroku postgres)
+// Deployed (Render postgres)
 const baseUrl = "https://movify-ufed.onrender.com/"
 // const baseUrl = "http://127.0.0.1:5000/"
 var url = baseUrl
